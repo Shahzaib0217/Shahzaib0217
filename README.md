@@ -19,7 +19,8 @@ I am a Final year Computer Science student. I have explored different fields in 
 
 
 ## 🌐 Socials:
-[Shahzaib.khan0217@gmail.com](mailto:Shahzaib.khan0217@gmail.com?subject=Test)
+[Shahzaib.khan0217@gmail.com](mailto:Shahzaib.khan0217@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/shahzaib-khan-b17852225/) 
 
 # 📊 GitHub Stats:
