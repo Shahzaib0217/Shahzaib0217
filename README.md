@@ -19,8 +19,9 @@ I am a Final year Computer Science student. I have explored different fields in 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/shahzaib-khan-b17852225/) 
 [Shahzaib.khan0217@gmail.com](mailto:Shahzaib.khan0217@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/shahzaib-khan-b17852225/) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shahzaib0217&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shahzaib0217&theme=dark&hide_border=false)<br/>
