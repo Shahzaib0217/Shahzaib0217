@@ -1,33 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Shahzaib0217/Shahzaib0217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h3>💫 About Me:</h3>
 
 - 🤔 &nbsp; I am a a self-driven Software Enigneer, having expertise in Web development and developing innovative solutions using AI.
-- 🔭 &nbsp; I’m currently working on Node.js, ROR, React.js, FastAPI and Generative Ai.
+- 🔭 &nbsp; I’m currently working on Node.js, ROR, FastAPI, React.js and Generative Ai.
 - 🌱 &nbsp; Learning more about Artificial Intelligence and current Web developemnet trends.
 - 👯 &nbsp; I’m looking to collaborate on any interesting idea related to AI and Web Dev.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | JS | Ruby | C++
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | FastAPI | ROR
-- 🤖 &nbsp; Langchain | LanGraph | Ai Agents | Voice Ai Agents  
-- 🛢 &nbsp; MySQL | PostgreSQL | Redis | 
-- 🔧 &nbsp; Git | Docker
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | FastAPI | ROR | gRPC
+- 🤖 &nbsp; LLMs | RAG | Langchain | LanGraph | Ai Agents | Voice Ai Agents  
+- 🛢 &nbsp; MySQL | PostgreSQL | SQLAlchemy | SupaBase | Redis | Vector Databases
+- 🔧 &nbsp; Git | Docker | Twilio
 
 ### 🌐 Socials:
 📫 
