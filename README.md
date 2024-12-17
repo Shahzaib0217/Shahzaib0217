@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3>💫 About Me:</h3>
+
 - 🤔 &nbsp; I am a a self-driven Software Enigneer, having expertise in Web development and developing innovative solutions using AI.
 - 🔭 &nbsp; I’m currently working on Node.js, ROR, React.js, FastAPI and Generative Ai.
 - 🌱 &nbsp; Learning more about Artificial Intelligence and current Web developemnet trends.
