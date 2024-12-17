@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am a Computer Science graduate. I have explored different fields in my 4 years of bachelors, and I have <br>developed interest in Ai, ML and Data Science. I have, 1+ years of experience in web dev and around 1 year of <br>experience with LLMs, generative Ai and Lang Chain. I am Passionate to work on LLMs, Ai, ML and Data Science.
+I am a a self-driven Software Enigneer, having expertise in Web development and developing innovative solutions using AI.
 
-🔭 I’m currently working on Generative Ai and Langchain.
+🔭 I’m currently working on Generative Ai and Web Development.
 
-🌱 I’m currently learning Machine learning and Artificial Intelligence.
+🌱 I’m currently learning about current trends in Web dev, Machine learning and GenAi.
 
 ## 🌐 Socials:
 📫 
