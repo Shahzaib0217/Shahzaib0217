@@ -14,12 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-I am a a self-driven Software Enigneer, having expertise in Web development and developing innovative solutions using AI.
+<h3>💫 About Me:</h3>
+- I am a a self-driven Software Enigneer, having expertise in Web development and developing innovative solutions using AI.
+- 🔭 I’m currently working on Node.js, ROR, React.js, FastAPI and Generative Ai.
+- 🌱 Learning more about Artificial Intelligence and current Web developemnet trends.
+- 👯 I’m looking to collaborate on any interesting idea related to AI and Web Dev.
 
-🔭 I’m currently working on Generative Ai and Web Development.
+<h3>🛠 Tech Stack</h3>
 
-🌱 I’m currently learning about current trends in Web dev, Machine learning and GenAi.
+- 💻 &nbsp; Python | JS | Ruby | C++
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | FastAPI | ROR
+- 🤖 &nbsp; Langchain | LanGraph | Ai Agents | Voice Ai Agents  
+- 🛢 &nbsp; MySQL | PostgreSQL | Redis | 
+- 🔧 &nbsp; Git | Docker
 
 ## 🌐 Socials:
 📫 
