@@ -10,7 +10,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | JS | Ruby | C++
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | FastAPI | ROR | gRPC | Microservices
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | FastAPI | ROR | GraphQL | gRPC | Microservices
 - 🤖 &nbsp; LLMs | RAG | Langchain | LanGraph | Ai Agents | Voice Ai Agents  
 - 🛢 &nbsp; MySQL | PostgreSQL | SQLAlchemy | SupaBase | Redis | Vector Databases
 - 🔧 &nbsp; Git | Docker | Twilio | Nginx
