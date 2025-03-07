@@ -3,7 +3,7 @@
 <h3>💫 About Me:</h3>
 
 - 🤔 &nbsp; I am a a self-driven Software Enigneer, having expertise in Full Stack Web dev and developing innovative solutions using AI.
-- 🔭 &nbsp; I’m currently working on Node.js, ROR, FastAPI, React.js and Generative Ai.
+- 🔭 &nbsp; I’m currently working on RAG, GenAi, Node.js, ROR, FastAPI and React.js.
 - 🌱 &nbsp; Learning more about Artificial Intelligence and current Web developemnet trends.
 - 👯 &nbsp; I’m looking to collaborate on any interesting idea related to AI and Web Dev.
 
