@@ -13,20 +13,6 @@ Currently building multi-channel AI agents for hotels and an AI-powered meeting 
 - **Voice AI:** real-time calling agents with STT, TTS, voice cloning
 - **Full-Stack MVPs:** idea to production in weeks
 
-### Tech Stack
-
-**Languages:** Python, JavaScript, TypeScript, C++, SQL
-
-**Backend:** FastAPI, Node.js, gRPC, Docker
-
-**Frontend:** React.js, Next.js
-
-**AI/ML:** LangChain, LangGraph, LlamaIndex, Pydantic AI, LiveKit, VAPI, MCP
-
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Pinecone, pgvector, ChromaDB, Supabase
-
-**Cloud & DevOps:** AWS (S3, EC2, Bedrock), GCP (Cloud Run, Compute Engine), GitHub Actions, Nginx
-
 ### Let's Connect
 
 📩 [hello@shahzaib.ai](mailto:hello@shahzaib.ai)
