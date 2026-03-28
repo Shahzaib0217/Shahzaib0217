@@ -2,7 +2,7 @@
 
 **Founding AI Engineer @ [Simplora AI](https://simplora.ai) & [DreamDesk AI](https://dreamdeskai.com)**
 
-Shipped 8+ AI products across hospitality, legal, governance, and SaaS. I'm the guy who takes a pitch deck and turns it into a working product.
+Shipped 8+ AI products across hospitality, meeting & productivity, legal, and SaaS. I'm the guy who takes a pitch deck and turns it into a working product.
 
 Currently building multi-channel AI agents for hotels and an AI-powered meeting platform with 300+ active users.
 
