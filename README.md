@@ -1,23 +1,34 @@
-### Hi there 👋
+# Shahzaib Khan
 
-<h3>💫 About Me:</h3>
+**Founding AI Engineer @ [Simplora AI](https://simplora.ai) & [DreamDesk AI](https://dreamdeskai.com)**
 
-- 🤔 &nbsp; I am a a self-driven Software Enigneer, having expertise in Full Stack Web dev and developing innovative solutions using AI.
-- 🔭 &nbsp; I’m currently working on RAG, GenAi, Node.js, ROR, FastAPI and React.js.
-- 🌱 &nbsp; Learning more about Artificial Intelligence and current Web developemnet trends.
-- 👯 &nbsp; I’m looking to collaborate on any interesting idea related to AI and Web Dev.
+Shipped 8+ AI products across hospitality, legal, governance, and SaaS. I'm the guy who takes a pitch deck and turns it into a working product.
 
-<h3>🛠 Tech Stack</h3>
+Currently building multi-channel AI agents for hotels and an AI-powered meeting platform with 300+ active users.
 
-- 💻 &nbsp; Python | JS | Ruby | C++
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | FastAPI | ROR | GraphQL | gRPC | Microservices
-- 🤖 &nbsp; LLMs | RAG | Langchain | LanGraph | Ai Agents | Voice Ai Agents  
-- 🛢 &nbsp; MySQL | PostgreSQL | SQLAlchemy | SupaBase | Redis | Vector Databases
-- 🔧 &nbsp; Git | Docker | Twilio | Nginx
+### What I Build
 
-### 🌐 Socials:
-📫 
-[Shahzaib.khan0217@gmail.com](mailto:Shahzaib.khan0217@gmail.com)
+- **AI Agents:** multi-channel bots (email, WhatsApp, web chat, phone, Booking.com)
+- **RAG Pipelines:** document Q&A, knowledge bases, vector search
+- **Voice AI:** real-time calling agents with STT, TTS, voice cloning
+- **Full-Stack MVPs:** idea to production in weeks
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/shahzaib-khan-b17852225/)
+### Tech Stack
 
+**Languages:** Python, JavaScript, TypeScript, C++, SQL
+
+**Backend:** FastAPI, Node.js, gRPC, Docker
+
+**Frontend:** React.js, Next.js
+
+**AI/ML:** LangChain, LangGraph, LlamaIndex, Pydantic AI, LiveKit, VAPI, MCP
+
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Pinecone, pgvector, ChromaDB, Supabase
+
+**Cloud & DevOps:** AWS (S3, EC2, Bedrock), GCP (Cloud Run, Compute Engine), GitHub Actions, Nginx
+
+### Let's Connect
+
+📩 [hello@shahzaib.ai](mailto:hello@shahzaib.ai)
+🌐 [shahzaib.ai](https://shahzaib.ai)
+💼 [LinkedIn](https://www.linkedin.com/in/shahzaib17)
